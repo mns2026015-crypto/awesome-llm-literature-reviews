@@ -176,6 +176,6 @@ However, using a retrieval or agent framework does not automatically guarantee t
 
 ## Related Resources
 
-* [References](references/references.md)
-* [Datasets and Benchmarks](datasets/datasets.md)
-* [Main README](README.md)
+* [References](../references/references.md)
+* [Datasets and Benchmarks](../datasets/datasets.md)
+* [Main README](../README.md)
