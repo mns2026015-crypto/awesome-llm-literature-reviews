@@ -106,5 +106,5 @@ Additional datasets and benchmarks can be added after independent verification o
 ## Related Resources
 
 * [References](../references/references.md)
-* [Citation Integrity Audit](../citation-audit/Citation_Integrity_Audit_Final.pdf)
+* [Citation Integrity Audit](../citation-audit/Citation_Integrity_Audit.pdf)
 * [Main README](../README.md)
