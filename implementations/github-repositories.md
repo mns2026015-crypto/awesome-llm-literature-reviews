@@ -65,7 +65,7 @@ The benchmark is particularly relevant because evaluation of generated scientifi
 * Scientific question answering
 * Benchmarking LLM research systems
 
-**Repository:** [https://github.com/AkariAsai/ScholarQABench]
+**Repository:** https://github.com/AkariAsai/ScholarQABench
 
 ---
 
