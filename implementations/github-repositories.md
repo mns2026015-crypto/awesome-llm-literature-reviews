@@ -115,5 +115,5 @@ The repositories listed above are publicly accessible implementations associated
 * [References](../references/references.md)
 * [Datasets and Benchmarks](../datasets/datasets.md)
 * [Tools and Libraries](../tools/tools.md)
-* [Citation Integrity Audit](../citation-audit/Citation_Integrity_Audit.pdf)
+* [Citation Integrity Audit](../citation-audit/Citation_Integrity_Audit_Final.pdf)
 * [Main README](../README.md)
