@@ -40,7 +40,7 @@ This research paper investigates how knowledge cutoffs can affect the completene
 
 The paper also discusses research systems including OpenScholar, AutoSurvey, FreshBench, ForeSci, and related approaches to automated scientific literature synthesis and temporal evaluation.
 
-**Paper:** [View AI-Assisted Research Paper](paper/LLM Knowledge Cutoff Research.pdf)
+**Paper:** [View AI-Assisted Research Paper](paper/AI_Assisted_Research_Paper.pdf)
 
 ---
 
